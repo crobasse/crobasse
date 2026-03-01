@@ -1,7 +1,5 @@
 # Hi 👋, I'm Cleyhan Robasse
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crobasse&label=Profile views&color=0e75b6&style=flat" alt="crobasse" /> </p>
-
 - 🔭 I'm currently working on **a Docker project**
 
 - 🌱 I'm currently learning **C**
